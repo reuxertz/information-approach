@@ -1,0 +1,9 @@
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvolutionTools\bin\Debug\EvolutionTools.dll
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvolutionTools\bin\Debug\EvolutionTools.pdb
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvolutionTools\obj\Debug\EvolutionTools.dll
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvolutionTools\obj\Debug\EvolutionTools.pdb
+C:\Ryan\Informatika\EvolutionCore\EvolutionTools\bin\Debug\EvolutionTools.dll
+C:\Ryan\Informatika\EvolutionCore\EvolutionTools\bin\Debug\EvolutionTools.pdb
+C:\Ryan\Informatika\EvolutionCore\EvolutionTools\obj\Debug\EvolutionTools.csprojResolveAssemblyReference.cache
+C:\Ryan\Informatika\EvolutionCore\EvolutionTools\obj\Debug\EvolutionTools.dll
+C:\Ryan\Informatika\EvolutionCore\EvolutionTools\obj\Debug\EvolutionTools.pdb

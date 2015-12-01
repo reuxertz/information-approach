@@ -1,0 +1,7 @@
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvolutionTools\bin\Release\EvolutionTools.dll
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvolutionTools\bin\Release\EvolutionTools.pdb
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvolutionTools\bin\Release\NDGParallel.dll
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvolutionTools\bin\Release\NDGParallel.pdb
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvolutionTools\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvolutionTools\obj\Release\EvolutionTools.dll
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvolutionTools\obj\Release\EvolutionTools.pdb

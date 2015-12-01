@@ -1,0 +1,5 @@
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\NDGParallel\bin\x64\Debug\NDGParallel.dll
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\NDGParallel\bin\x64\Debug\NDGParallel.pdb
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\NDGParallel\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\NDGParallel\obj\x64\Debug\NDGParallel.dll
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\NDGParallel\obj\x64\Debug\NDGParallel.pdb

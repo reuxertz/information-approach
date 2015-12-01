@@ -1,0 +1,15 @@
+E:\C# Projects\Evolution\EvolutionBeta2\NDGParallel\bin\Debug\NDGParallel.dll
+E:\C# Projects\Evolution\EvolutionBeta2\NDGParallel\bin\Debug\NDGParallel.pdb
+E:\C# Projects\Evolution\EvolutionBeta2\NDGParallel\obj\Debug\ResolveAssemblyReference.cache
+E:\C# Projects\Evolution\EvolutionBeta2\NDGParallel\obj\Debug\NDGParallel.dll
+E:\C# Projects\Evolution\EvolutionBeta2\NDGParallel\obj\Debug\NDGParallel.pdb
+C:\Users\Ryan\Documents\Visual Studio 2010\Projects\EvolutionBeta\NDGParallel\bin\Debug\NDGParallel.dll
+C:\Users\Ryan\Documents\Visual Studio 2010\Projects\EvolutionBeta\NDGParallel\bin\Debug\NDGParallel.pdb
+C:\Users\Ryan\Documents\Visual Studio 2010\Projects\EvolutionBeta\NDGParallel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2010\Projects\EvolutionBeta\NDGParallel\obj\Debug\NDGParallel.dll
+C:\Users\Ryan\Documents\Visual Studio 2010\Projects\EvolutionBeta\NDGParallel\obj\Debug\NDGParallel.pdb
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\NDGParallel\bin\Debug\NDGParallel.dll
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\NDGParallel\bin\Debug\NDGParallel.pdb
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\NDGParallel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\NDGParallel\obj\Debug\NDGParallel.dll
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\NDGParallel\obj\Debug\NDGParallel.pdb

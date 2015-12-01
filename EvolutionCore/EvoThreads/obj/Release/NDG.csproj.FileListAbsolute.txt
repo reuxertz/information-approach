@@ -1,0 +1,10 @@
+E:\C# Projects\Evolution\EvolutionBeta2\NDGParallel\bin\Release\NDGParallel.dll
+E:\C# Projects\Evolution\EvolutionBeta2\NDGParallel\bin\Release\NDGParallel.pdb
+E:\C# Projects\Evolution\EvolutionBeta2\NDGParallel\obj\Release\ResolveAssemblyReference.cache
+E:\C# Projects\Evolution\EvolutionBeta2\NDGParallel\obj\Release\NDGParallel.dll
+E:\C# Projects\Evolution\EvolutionBeta2\NDGParallel\obj\Release\NDGParallel.pdb
+E:\vs projects\EvolutionCore\NDGParallel\bin\Release\NDGParallel.dll
+E:\vs projects\EvolutionCore\NDGParallel\bin\Release\NDGParallel.pdb
+E:\vs projects\EvolutionCore\NDGParallel\obj\Release\ResolveAssemblyReference.cache
+E:\vs projects\EvolutionCore\NDGParallel\obj\Release\NDGParallel.dll
+E:\vs projects\EvolutionCore\NDGParallel\obj\Release\NDGParallel.pdb

@@ -1,0 +1,15 @@
+C:\Ryan\Informatika\InfoApplication\InfoApplication\bin\Debug\InfoApplication.exe.config
+C:\Ryan\Informatika\InfoApplication\InfoApplication\bin\Debug\InfoApplication.exe
+C:\Ryan\Informatika\InfoApplication\InfoApplication\bin\Debug\InfoApplication.pdb
+C:\Ryan\Informatika\InfoApplication\InfoApplication\bin\Debug\EvoGL.dll
+C:\Ryan\Informatika\InfoApplication\InfoApplication\bin\Debug\EvolutionTools.dll
+C:\Ryan\Informatika\InfoApplication\InfoApplication\bin\Debug\Tao.Platform.Windows.dll
+C:\Ryan\Informatika\InfoApplication\InfoApplication\bin\Debug\Tao.OpenGl.dll
+C:\Ryan\Informatika\InfoApplication\InfoApplication\bin\Debug\EvoGL.pdb
+C:\Ryan\Informatika\InfoApplication\InfoApplication\bin\Debug\EvolutionTools.pdb
+C:\Ryan\Informatika\InfoApplication\InfoApplication\obj\Debug\Informatika.csprojResolveAssemblyReference.cache
+C:\Ryan\Informatika\InfoApplication\InfoApplication\obj\Debug\InfoApplication.MainForm.resources
+C:\Ryan\Informatika\InfoApplication\InfoApplication\obj\Debug\InfoApplication.Properties.Resources.resources
+C:\Ryan\Informatika\InfoApplication\InfoApplication\obj\Debug\Informatika.csproj.GenerateResource.Cache
+C:\Ryan\Informatika\InfoApplication\InfoApplication\obj\Debug\InfoApplication.exe
+C:\Ryan\Informatika\InfoApplication\InfoApplication\obj\Debug\InfoApplication.pdb

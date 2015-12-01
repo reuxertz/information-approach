@@ -1,0 +1,10 @@
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvoGL\bin\x64\Release\EvoGL.dll
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvoGL\bin\x64\Release\EvoGL.pdb
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvoGL\bin\x64\Release\EvolutionTools.dll
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvoGL\bin\x64\Release\Tao.OpenGl.dll
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvoGL\bin\x64\Release\Tao.Platform.Windows.dll
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvoGL\bin\x64\Release\Tao.Sdl.dll
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvoGL\bin\x64\Release\EvolutionTools.pdb
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvoGL\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvoGL\obj\x64\Release\EvoGL.dll
+C:\Users\Ryan\Desktop\VSSD\vs projects\EvolutionCore\EvoGL\obj\x64\Release\EvoGL.pdb

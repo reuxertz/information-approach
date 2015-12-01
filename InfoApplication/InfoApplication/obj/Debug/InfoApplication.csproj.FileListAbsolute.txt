@@ -1,0 +1,12 @@
+C:\Ryan\InfoApp\InfoApplication\InfoApplication\bin\Debug\InfoApplication.exe.config
+C:\Ryan\InfoApp\InfoApplication\InfoApplication\bin\Debug\InfoApplication.exe
+C:\Ryan\InfoApp\InfoApplication\InfoApplication\bin\Debug\InfoApplication.pdb
+C:\Ryan\InfoApp\InfoApplication\InfoApplication\obj\Debug\InfoApplication.csprojResolveAssemblyReference.cache
+C:\Ryan\InfoApp\InfoApplication\InfoApplication\obj\Debug\InfoApplication.MainForm.resources
+C:\Ryan\InfoApp\InfoApplication\InfoApplication\obj\Debug\InfoApplication.Properties.Resources.resources
+C:\Ryan\InfoApp\InfoApplication\InfoApplication\obj\Debug\InfoApplication.csproj.GenerateResource.Cache
+C:\Ryan\InfoApp\InfoApplication\InfoApplication\obj\Debug\InfoApplication.exe
+C:\Ryan\InfoApp\InfoApplication\InfoApplication\obj\Debug\InfoApplication.pdb
+C:\Ryan\Informatika\InfoApplication\InfoApplication\bin\Debug\InfoApplication.exe.config
+C:\Ryan\Informatika\InfoApplication\InfoApplication\obj\Debug\InfoApplication.exe
+C:\Ryan\Informatika\InfoApplication\InfoApplication\obj\Debug\InfoApplication.pdb

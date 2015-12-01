@@ -1,0 +1,5 @@
+E:\C# Projects\Evolution\EvolutionBeta2\NDGParallel\bin\Debug\NDGParallel.dll
+E:\C# Projects\Evolution\EvolutionBeta2\NDGParallel\bin\Debug\NDGParallel.pdb
+E:\C# Projects\Evolution\EvolutionBeta2\NDGParallel\obj\Debug\ResolveAssemblyReference.cache
+E:\C# Projects\Evolution\EvolutionBeta2\NDGParallel\obj\Debug\NDGParallel.dll
+E:\C# Projects\Evolution\EvolutionBeta2\NDGParallel\obj\Debug\NDGParallel.pdb
